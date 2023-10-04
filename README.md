@@ -24,7 +24,7 @@ Then we can boot our system with this file. but we prefer a virtual machine like
 
 I boot this ISO file on Oracle VM VirtualBox.
 
-![example image](https://raw.githubusercontent.com/erfanbahrami/a-simple-bootloader/master/pic.png)
+![alt text](https://github.com/erfanbahrami/Simple-Bootloader/blob/master/pic.png)
 
 ---
 
